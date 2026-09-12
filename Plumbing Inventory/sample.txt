@@ -1,0 +1,11 @@
+.75", copper press coupling, 0;
+1", copper press coupling, 0;
+1.5", copper press ball valve, 0;
+2", copper, 26;
+2", copper elbow, 48;
+2", copper press 90, 34;
+2", copper press coupling, 20;
+3", copper press 45, 45;
+3", copper press 90, 26;
+3", copper press elbow, 50;
+4", clevice hanger, 544;
